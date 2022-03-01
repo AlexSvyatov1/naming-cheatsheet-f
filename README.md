@@ -1,6 +1,6 @@
 
 
-# Naming cheatsheet
+
 
 - [English language](#english-language)
 - [Naming convention](#naming-convention)
