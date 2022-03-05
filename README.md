@@ -37,8 +37,7 @@ Use English language when naming your variables and functions.
 
 ```js
 /* Bad */
-const page_count = 5
-const shouldUpdate = true
+
 
 /* Good */
 const pageCount = 5
