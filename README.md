@@ -41,9 +41,7 @@ Use English language when naming your variables and functions.
 
 
 
-/* Good as well */
-const page_count = 5
-const should_update = true
+
 ```
 
 ## S-I-D
