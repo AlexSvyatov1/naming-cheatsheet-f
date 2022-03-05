@@ -39,9 +39,7 @@ Use English language when naming your variables and functions.
 /* Bad */
 
 
-/* Good */
-const pageCount = 5
-const shouldUpdate = true
+
 
 /* Good as well */
 const page_count = 5
